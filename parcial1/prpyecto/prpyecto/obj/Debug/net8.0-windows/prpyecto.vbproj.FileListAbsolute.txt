@@ -1,0 +1,16 @@
+C:\Users\Noveno\source\repos\prpyecto\prpyecto\obj\Debug\net8.0-windows\prpyecto.Form1.resources
+C:\Users\Noveno\source\repos\prpyecto\prpyecto\obj\Debug\net8.0-windows\prpyecto.vbproj.GenerateResource.cache
+C:\Users\Noveno\source\repos\prpyecto\prpyecto\obj\Debug\net8.0-windows\prpyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noveno\source\repos\prpyecto\prpyecto\obj\Debug\net8.0-windows\prpyecto.AssemblyInfoInputs.cache
+C:\Users\Noveno\source\repos\prpyecto\prpyecto\obj\Debug\net8.0-windows\prpyecto.AssemblyInfo.vb
+C:\Users\Noveno\source\repos\prpyecto\prpyecto\obj\Debug\net8.0-windows\prpyecto.vbproj.CoreCompileInputs.cache
+C:\Users\Noveno\source\repos\prpyecto\prpyecto\bin\Debug\net8.0-windows\prpyecto.exe
+C:\Users\Noveno\source\repos\prpyecto\prpyecto\bin\Debug\net8.0-windows\prpyecto.deps.json
+C:\Users\Noveno\source\repos\prpyecto\prpyecto\bin\Debug\net8.0-windows\prpyecto.runtimeconfig.json
+C:\Users\Noveno\source\repos\prpyecto\prpyecto\bin\Debug\net8.0-windows\prpyecto.dll
+C:\Users\Noveno\source\repos\prpyecto\prpyecto\bin\Debug\net8.0-windows\prpyecto.pdb
+C:\Users\Noveno\source\repos\prpyecto\prpyecto\obj\Debug\net8.0-windows\prpyecto.dll
+C:\Users\Noveno\source\repos\prpyecto\prpyecto\obj\Debug\net8.0-windows\refint\prpyecto.dll
+C:\Users\Noveno\source\repos\prpyecto\prpyecto\obj\Debug\net8.0-windows\prpyecto.pdb
+C:\Users\Noveno\source\repos\prpyecto\prpyecto\obj\Debug\net8.0-windows\prpyecto.genruntimeconfig.cache
+C:\Users\Noveno\source\repos\prpyecto\prpyecto\obj\Debug\net8.0-windows\ref\prpyecto.dll
