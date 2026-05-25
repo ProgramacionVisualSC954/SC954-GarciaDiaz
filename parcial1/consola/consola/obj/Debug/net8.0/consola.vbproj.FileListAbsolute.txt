@@ -1,0 +1,14 @@
+C:\Users\Noveno\source\repos\consola\consola\bin\Debug\net8.0\consola.exe
+C:\Users\Noveno\source\repos\consola\consola\bin\Debug\net8.0\consola.deps.json
+C:\Users\Noveno\source\repos\consola\consola\bin\Debug\net8.0\consola.runtimeconfig.json
+C:\Users\Noveno\source\repos\consola\consola\bin\Debug\net8.0\consola.dll
+C:\Users\Noveno\source\repos\consola\consola\bin\Debug\net8.0\consola.pdb
+C:\Users\Noveno\source\repos\consola\consola\obj\Debug\net8.0\consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noveno\source\repos\consola\consola\obj\Debug\net8.0\consola.AssemblyInfoInputs.cache
+C:\Users\Noveno\source\repos\consola\consola\obj\Debug\net8.0\consola.AssemblyInfo.vb
+C:\Users\Noveno\source\repos\consola\consola\obj\Debug\net8.0\consola.vbproj.CoreCompileInputs.cache
+C:\Users\Noveno\source\repos\consola\consola\obj\Debug\net8.0\consola.dll
+C:\Users\Noveno\source\repos\consola\consola\obj\Debug\net8.0\refint\consola.dll
+C:\Users\Noveno\source\repos\consola\consola\obj\Debug\net8.0\consola.pdb
+C:\Users\Noveno\source\repos\consola\consola\obj\Debug\net8.0\consola.genruntimeconfig.cache
+C:\Users\Noveno\source\repos\consola\consola\obj\Debug\net8.0\ref\consola.dll
