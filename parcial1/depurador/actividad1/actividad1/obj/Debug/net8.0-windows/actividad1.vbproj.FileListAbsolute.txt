@@ -1,0 +1,16 @@
+C:\Users\Noveno\source\repos\actividad1\actividad1\bin\Debug\net8.0-windows\actividad1.exe
+C:\Users\Noveno\source\repos\actividad1\actividad1\bin\Debug\net8.0-windows\actividad1.deps.json
+C:\Users\Noveno\source\repos\actividad1\actividad1\bin\Debug\net8.0-windows\actividad1.runtimeconfig.json
+C:\Users\Noveno\source\repos\actividad1\actividad1\bin\Debug\net8.0-windows\actividad1.dll
+C:\Users\Noveno\source\repos\actividad1\actividad1\bin\Debug\net8.0-windows\actividad1.pdb
+C:\Users\Noveno\source\repos\actividad1\actividad1\obj\Debug\net8.0-windows\actividad1.Form1.resources
+C:\Users\Noveno\source\repos\actividad1\actividad1\obj\Debug\net8.0-windows\actividad1.vbproj.GenerateResource.cache
+C:\Users\Noveno\source\repos\actividad1\actividad1\obj\Debug\net8.0-windows\actividad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noveno\source\repos\actividad1\actividad1\obj\Debug\net8.0-windows\actividad1.AssemblyInfoInputs.cache
+C:\Users\Noveno\source\repos\actividad1\actividad1\obj\Debug\net8.0-windows\actividad1.AssemblyInfo.vb
+C:\Users\Noveno\source\repos\actividad1\actividad1\obj\Debug\net8.0-windows\actividad1.vbproj.CoreCompileInputs.cache
+C:\Users\Noveno\source\repos\actividad1\actividad1\obj\Debug\net8.0-windows\actividad1.dll
+C:\Users\Noveno\source\repos\actividad1\actividad1\obj\Debug\net8.0-windows\refint\actividad1.dll
+C:\Users\Noveno\source\repos\actividad1\actividad1\obj\Debug\net8.0-windows\actividad1.pdb
+C:\Users\Noveno\source\repos\actividad1\actividad1\obj\Debug\net8.0-windows\actividad1.genruntimeconfig.cache
+C:\Users\Noveno\source\repos\actividad1\actividad1\obj\Debug\net8.0-windows\ref\actividad1.dll
